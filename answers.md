@@ -43,15 +43,15 @@ A.) cannot be reassigned after assignment, unless the value is stored in an arra
 
 B.) can always be reassigned after assignement.
 
-C.) cannot be reassigned after assignment, ever.
+**C.) cannot be reassigned after assignment, ever. (answer)**
 ### 8) Function definition hoisting:
 A.) Only occurs for function declarations.
 
 B.) Only occurs for function expressions.
 
-C.) Occurs for function declaration and expressions.
+**C.) Occurs for function declaration and expressions. (answer)**
 ### 9) In which mode will an error occur when a variable is assigned a value without first declaring the variable?
-A.) Strict mode
+**A.) Strict mode (answer)**
 
 B.) Non-strict mode
 
@@ -61,4 +61,4 @@ A.) Only the variable declaration
 
 B.) Only the variable assignment
 
-C.) Both the variable declaration and assignment
+**C.) Both the variable declaration and assignment (answer)**
