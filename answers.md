@@ -1,5 +1,5 @@
 ### 1) A closure relies on what kind of scope to isolate variables?
-A.) Lexical
+**A.) Lexical (answer)**
 
 B.) Block
 
@@ -11,23 +11,23 @@ A.) False
 
 B.) True
 
-C.) Sometimes true
+**C.) Sometimes true (answer)**
 
 D.) Only false in strict mode
 ### 3) The statement "variable can share the same name when used in different function" refers to:
-A.) Local scope
+**A.) Local scope (answer)**
 
 B.) Global scope
 
 C.) Both global and local scopes
 ### 4) In global scope, variables can:
-A.) Be accessed and modified from any other scope.
+**A.) Be accessed and modified from any other scope. (answer)**
 
 B.) Be accessed and modified only from the global scope
 
 C.) Be accessed only from any other scope.
 ### 5) In a constructor invocation, this is the value of:
-A.) The newly created object.
+**A.) The newly created object. (answer)**
 
 B.) The parent object.
 
@@ -35,7 +35,7 @@ C.) The window.
 ### 6) this is the value of the first argument in:
 A.) .call(), .apply(), and .bind().
 
-B.) .call() and .apply().
+**B.) .call() and .apply(). (answer)**
 
 C.) .bind() and .call().
 ### 7) When using const, the value of a variable:
